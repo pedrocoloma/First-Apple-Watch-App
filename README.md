@@ -1,4 +1,4 @@
-# First-Apple-Watch-App
+# First Apple Watch App
 
 App developed on Xcode 10.1 and Swift 4.2
 
